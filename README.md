@@ -1,2 +1,2 @@
 # kodluyoruzilkrepo
-Kodluyoruz Git Dersleri Ödev1
+Kodluyoruz Eğitimi kapsamında açtığım ilk repo
